@@ -5,9 +5,7 @@
 
 # Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnlepikhin)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnlepikhin)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=johnlepikhin&show_icons=true)
 
 # How to reach me
 
