@@ -2,6 +2,7 @@
 # My CV
 
  - [in Russian](https://github.com/johnlepikhin/johnlepikhin-cv/releases/latest/download/ru.pdf)
+ - [in English](https://github.com/johnlepikhin/johnlepikhin-cv/releases/latest/download/en.pdf)
 
 # Statistics
 
